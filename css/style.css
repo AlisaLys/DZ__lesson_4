@@ -1,0 +1,49 @@
+/*&display=swap&subset=cyrillic-ext*/
+@import url("https://fonts.googleapis.com/css?family=Kanit:regular,italic,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Alumni+Sans+Pinstripe:regular,italic&display=swap");
+@import "null.css";
+
+h1{
+	font-family: "Kanit","sans-serif";
+	font-size: 35px;
+	font-style: normal;
+	font-weight: 700;
+	color:darkmagenta;
+	text-align: center;
+	text-decoration: underline;
+	text-shadow: 10px 10px 0,6px #000;
+	letter-spacing: 1px;
+}
+ .starte{
+	font-size: 25px;
+	font-style: normal;
+	color:darkslateblue;
+	text-align: center;
+	text-transform: capitalize;
+	line-height: 120%;
+	letter-spacing: 1px;
+ }
+ .tit{
+	font-family:"Kanit", "serif";
+	font-style:normal;
+	font-weight: 400;
+	color:darksalmon;
+	letter-spacing: 1px;
+ }
+ p{
+	font-size: 24px;
+	color:green;
+	text-align:justify;
+	line-height: 1.2;
+	text-indent:3%;
+ }
+ .finish{
+	font-family:"Kanit","serif";
+	font-size:35px;
+	font-style:italic;
+	color:aquamarine;
+	text-transform: uppercase;
+ }
+ .textt{
+	text-decoration:line-through;
+ }
